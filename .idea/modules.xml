@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/storm-kafka-wordcount/storm-kafka-wordcount.iml" filepath="$PROJECT_DIR$/storm-kafka-wordcount/storm-kafka-wordcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-reliability/storm-reliability.iml" filepath="$PROJECT_DIR$/storm-reliability/storm-reliability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-starter.iml" filepath="$PROJECT_DIR$/storm-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-transactional/storm-transactional.iml" filepath="$PROJECT_DIR$/storm-transactional/storm-transactional.iml" />
+    </modules>
+  </component>
+</project>
